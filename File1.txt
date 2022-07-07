@@ -1,5 +1,7 @@
 Git Training
 
-7/5/22
+7/5/22.
 
-Change to fix bug1
+Change to fix bug1.
+
+Change for bug2 to check 3-way merging with conflict.

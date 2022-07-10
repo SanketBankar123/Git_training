@@ -1,10 +1,13 @@
 Git Training
 
 
-:7/5/22.
+:-7/5/22.
 
-:Change to fix bug1.
+:-Change to fix bug1.
 
-Change: by team mate for CR1 3-way merge conflict.
+Change:- by team mate for CR1 3-way merge conflict.
 
-Change for bug2 to check 3-way merging with conflict.
+Change:- for bug2 to check 3-way merging with conflict.
+
+Change:- by teammate for WI4 to check rebase with conflict.
+
